@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureView", "WindowsFormsApp1\PictureView.csproj", "{BA02C00F-DB06-4971-B75B-39CAD3798CB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA02C00F-DB06-4971-B75B-39CAD3798CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA02C00F-DB06-4971-B75B-39CAD3798CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA02C00F-DB06-4971-B75B-39CAD3798CB2}.Debug|x64.ActiveCfg = Debug|x64
+		{BA02C00F-DB06-4971-B75B-39CAD3798CB2}.Debug|x64.Build.0 = Debug|x64
+		{BA02C00F-DB06-4971-B75B-39CAD3798CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA02C00F-DB06-4971-B75B-39CAD3798CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA02C00F-DB06-4971-B75B-39CAD3798CB2}.Release|x64.ActiveCfg = Release|x64
+		{BA02C00F-DB06-4971-B75B-39CAD3798CB2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C2D288-67DA-42BF-BBBB-29EB13825AFB}
+	EndGlobalSection
+EndGlobal

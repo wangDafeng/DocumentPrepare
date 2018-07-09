@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\PictureView.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\PictureView.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\PictureView.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\PictureView.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\PictureView.exe.config
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\PictureView.exe.manifest
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\PictureView.application
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\PictureView.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\PictureView.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\PictureView.TrustInfo.xml
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\PictureView.exe.manifest
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\PictureView.application
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\PictureView.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\PictureView.pdb
